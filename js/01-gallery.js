@@ -30,4 +30,3 @@ function handlerClick(e) {
 
 
 
-www
