@@ -24,3 +24,4 @@ let lightbox = new SimpleLightbox(".gallery a", {
              enableKeyboard: "true",
 });
 console.log(galleryItems);
+www
