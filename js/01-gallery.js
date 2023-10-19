@@ -23,7 +23,7 @@ function handlerClick(e) {
 
         const originalImgUrl = target.dataset.source;
 
-        const modal = basicLightbox.create(`<img src="${originalImgUrl}" width="800" height="600"`);
+        const modal = basicLightbox.create(`<img src="${originalImgUrl}" width="800" height="600">`);
         modal.show();
     }
 }
